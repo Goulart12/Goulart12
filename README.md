@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey fellas 👋
 
 - 🔭 I’m currently working on Javascript apps.
 - 🌱 I’m currently learning JS, HTML and CSS.
