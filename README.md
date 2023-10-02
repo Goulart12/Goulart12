@@ -1,6 +1,6 @@
 ### Salve Salve 👋
 
-<p>Meu nome é Juarez Goulart, sou estudante de front end e atualmente estou focado em melhorar cada vez mais minhas habilidades na criação de páginas web, tanto na parte de design quanto na parte de funcionalidades. Estou focando na linguagem Javascript com React e também sei um pouco de Vuejs, também tenho experiência com C# e já estudei C++, Java e Python por motivos acadêmicos.</p>
+<p>Meu nome é Juarez Goulart, sou estudante de back end e atualmente estou focado em melhorar minhas habilidades em C#, bancos de dados relacionais com Postgresql e uso de nuvem na AWS. Também tenho conhecimento front end com a linguagem Javascript com React e Vuejs e já estudei C++, Java e Python por motivos acadêmicos.</p>
 
 <a href="https://github.com/Goulart12">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Goulart12&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
